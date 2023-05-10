@@ -28,4 +28,4 @@ In devnet:
 
 In testnet:
 
-![alt text](https://github.com/devnet0x/Starknet_build/blob/main/builddev.png)
+![alt text](https://github.com/devnet0x/Starknet_build/blob/main/buildtest.png)
