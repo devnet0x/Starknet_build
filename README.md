@@ -24,8 +24,8 @@ constructor parameters : Constructor parameters (felt formatted)
 
 In devnet:
 
-![alt text](./builddev.png)
+![alt text](https://github.com/devnet0x/Starknet_build/builddev.png)
 
 In testnet:
 
-![alt text](./buildtest.png)
+![alt text](https://github.com/devnet0x/Starknet_build/buildtest.png)
