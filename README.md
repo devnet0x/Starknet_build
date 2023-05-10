@@ -6,9 +6,9 @@ Any comments/corrections please reach me at my twitter account: [@devnet0x](http
 
 ## Requirements ##
 
-[Cairo 1.0] (https://github.com/starkware-libs/cairo)
+[Cairo 1.0](https://github.com/starkware-libs/cairo)
 
-[Starknet-devnet (if you want to use it in devnet)] (https://github.com/0xSpaceShard/starknet-devnet)
+[Starknet-devnet (if you want to use it in devnet)](https://github.com/0xSpaceShard/starknet-devnet)
 
 ## Usage ##
 
